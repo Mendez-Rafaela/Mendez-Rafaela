@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em **WTS - We think Solutions**
+- 🔭 Atualmente estou trabalhando em **2R Consultoria e Assessoria de Marketing**
 
 - 🌱 Atualmente estou aprendendo **HTML, CSS, JavaScript, Marketing**
 
